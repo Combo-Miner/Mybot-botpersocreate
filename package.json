@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "discord.js": "^13.11.0",
+    "gdate": "^1.1.5",
+    "glob": "^7.1.7",
+    "modern-async": "^1.1.2",
+    "mongoose": "^6.6.4",
+    "ms": "^2.1.3",
+    "pm-date-formater": "^1.0.2",
+    "quick.db": "^7.1.3"
+  }
+}
